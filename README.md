@@ -3,6 +3,7 @@
 
 > 💻 A complete collection of beginner-friendly Python projects to build logic, strengthen fundamentals, and kickstart your programming journey.
 
+
 ---
 
 ## 🧠 About The Repository  
